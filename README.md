@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**pandacover/pandacover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a second year Computer Science student:
 
 - 🔭 I’m currently a student
@@ -18,4 +15,3 @@ Wanna message me? :
 -[Discord](https://discord.gg/3rjF858)
 
 Thankyou for checking in.
--->
