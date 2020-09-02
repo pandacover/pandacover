@@ -3,14 +3,19 @@
 <!--
 **pandacover/pandacover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a second year Computer Science student:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently a student
+- 🌱 I’m currently using .py .java .c .html .css .json .js
+- 👯 I’m still learning .py and .js
+- 🤔 I’m looking for help with any advice😄.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Sometimes grind for 6-8 hours
+
+Wanna message me? :
+
+-[Instagram](https://www.instagram.com/give.you.a.flex)
+-[Discord](https://discord.gg/3rjF858)
+
+Thankyou for checking in.
 -->
