@@ -19,8 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandacover&show_icons=true" alt="pandacover" /></p>
 
-<p align="center">
-<a href="https://stackoverflow.com/users/luv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="luv" height="30" width="30" /></a>
-<a href="https://instagram.com/flexaboi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="give.you.a.flex" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/luvmakin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="luvmakin" height="30" width="30" /></a>
-</p>
+
