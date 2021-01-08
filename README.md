@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/pandacover)
 
-- 📫 How to reach me **[Instagram](https://www.instagram.com/give.you.a.flex) \ [Discord](https://discord.gg/3rjF858)**
+- 📫 How to reach me **[Instagram](https://instagram.com/flexaboi) \ [Discord](https://discord.gg/3rjF858)**
 
 - ⚡ Fun fact **Sometimes grind for 6-8 hours and sometimes don't work at all**
 
