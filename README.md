@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luv</h1>
-<h3 align="center">I'm a second year Computer Science student</h3>
+<h3 align="center">I'm a Computer Science undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandacover" alt="pandacover" /> </p>
 
