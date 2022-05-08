@@ -9,16 +9,30 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/pandacover)
 
-- 📫 How to reach me **Don't do it**
-
 - ⚡ Fun fact **Sometimes grind for 6-8 hours and sometimes don't work at all**
+<br />
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandacover&layout=compact&hide=html" alt="pandacover" /></p>
+* ### Github Stats
+<p align="center">
+  <a href="https://github.com/pandacover" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandacover&layout=compact&hide=html&theme=algolia" alt="pandacover" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pandacover" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandacover&show_icons=true&theme=algolia" alt="pandacover" />
+  </a>
+</p>
+<br />
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandacover&show_icons=true" alt="pandacover" /></p>
+* ### Github Activities
+<p align="center"><a href="https://github.com/pandacover" target="_blank"><img alt="Luv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pandacover&custom_title=Luv's%20Contribution%20Graph&theme=react-dark" /></a></p>
+
 
 <p align="center">
-<a href="https://stackoverflow.com/users/luv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="luv" height="30" width="30" /></a>
-<a href="https://instagram.com/flexaboi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="give.you.a.flex" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/luvmakin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="luvmakin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/luv-makin-19a151209/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="Luv's linkedin profile" height="40" width="40" /></a>&nbsp;
+<a href="https://www.leetcode.com/luvmakin" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-fresh-tal-revivo.png" alt="Luv's Leetcode Profile" height="40" width="40" /></a></a>&nbsp;
+<a href="https://portfolio-v2-tau-five.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/resume-website.png" alt="Luv's website" height="40" width="40" /></a>
 </p>
+<p>
