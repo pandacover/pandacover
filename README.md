@@ -33,6 +33,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/luv-makin-19a151209/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="Luv's linkedin profile" height="40" width="40" /></a>&nbsp;
 <a href="https://www.leetcode.com/luvmakin" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-fresh-tal-revivo.png" alt="Luv's Leetcode Profile" height="40" width="40" /></a></a>&nbsp;
-<a href="https://portfolio-v2-tau-five.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/resume-website.png" alt="Luv's website" height="40" width="40" /></a>
+<a href="https://luv-sage.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/resume-website.png" alt="Luv's website" height="40" width="40" /></a>
 </p>
 <p>
