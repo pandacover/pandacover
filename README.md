@@ -1,38 +1,18 @@
-<h1 align="center">Hi 👋, I'm Luv</h1>
-<h3 align="center">I'm a Computer Science undergraduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandacover" alt="pandacover" /> </p>
+![pandacover-banner](https://github.com/user-attachments/assets/e21fe344-ae8a-4181-9e12-155a6534a820)
 
-- 🔭 I’m currently working with **Java, Python, HTML, Css, Django and Javascript.**
+#### About me
+- 💼 Software Engineer at [Tekion](https://tekion.com/)
+- 🖥️ I specialize in Frontend Development
 
-- 🌱 I’m currently learning **Frameworks, python, json, javascript**
+#### Technologies I've Worked With
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/pandacover)
+- React.js | Next.js | Redux | TypeScript | JavaScript
+- Babel | Webpack | ESLint | Prettier | Tailwind | Redux
+- HTML5 | CSS3 | SASS | Styled Components
 
-- ⚡ Fun fact **Sometimes grind for 6-8 hours and sometimes don't work at all**
-<br />
-<br />
+#### Links
 
-* ### Github Stats
-<p align="center">
-  <a href="https://github.com/pandacover" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandacover&layout=compact&hide=html&theme=algolia" alt="pandacover" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/pandacover" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandacover&show_icons=true&theme=algolia" alt="pandacover" />
-  </a>
-</p>
-<br />
-<br />
-
-* ### Github Activities
-<p align="center"><a href="https://github.com/pandacover" target="_blank"><img alt="Luv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pandacover&custom_title=Luv's%20Contribution%20Graph&theme=react-dark" /></a></p>
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/luv-makin-19a151209/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/2x/linkedin.png" alt="Luv's linkedin profile" height="40" width="40" /></a>&nbsp;
-<a href="https://www.leetcode.com/luvmakin" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-fresh-tal-revivo.png" alt="Luv's Leetcode Profile" height="40" width="40" /></a></a>&nbsp;
-<a href="https://luv-sage.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/resume-website.png" alt="Luv's website" height="40" width="40" /></a>
-</p>
-<p>
+<a href="https://www.linkedin.com/in/luvmakin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
+<a href="https://www.leetcode.com/luvmakin" target="_blank"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge" /></a>
+<a href="https://luv-sage.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" /></a>
