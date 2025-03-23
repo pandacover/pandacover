@@ -15,4 +15,4 @@
 
 <a href="https://www.linkedin.com/in/luvmakin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
 <a href="https://www.leetcode.com/luvmakin" target="_blank"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge" /></a>
-<a href="https://luv-sage.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" /></a>
+<a href="https://luvmakin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" /></a>
