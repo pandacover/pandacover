@@ -1,4 +1,4 @@
-https://luvmakin.vercel.app/
+luvmakin.dev/
 
 Full time software engineer and part time bug-maxxer
 
